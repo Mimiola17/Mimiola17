@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mimiola17
+- 👋 Hi, I’m @Mimiola Olamidayo
 - 👀 I’m interested in Web Development, Artificial Intelligence and Machine Learning (peculiar interest in Recommender Systems)
 - 🌱 I’m currently learning Python for Data Science and Machine Learning at Robotics & Artificial Intelligence Nigeria (RAIN)
 - 💞️ I’m looking to collaborate on building Recommender Systems 
