@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mimiola Olamidayo
-- 👀 I am a Data Scientist. I love making insights from Data and using the insight to make actionable intel.
+- 👀 I am a Data Scientist with two years of experience driving analytic innovation and applying machine learning to tackle problems
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 You can reach me via email @ mimeedayus@gmail.com
 
